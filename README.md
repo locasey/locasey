@@ -1,4 +1,8 @@
-### Hi there 👋
+### Liam O'Casey
+
+😄 Pronouns: He/Him/His
+:arrow_forward: Languages : [ "Python", "JavaScript", "Java"]
+:trident: Technologies : ["Node.js", "React,js", "Docker", "GitHub", "GitLab"]
 
 <!--
 **locasey/locasey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
