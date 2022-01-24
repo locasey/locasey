@@ -2,7 +2,7 @@
 
 
 - 😄 Pronouns: He/Him/His
-- :arrow_forward: Languages : [ "Python", "JavaScript", "Java"]
+- :arrow_forward: Languages : [ "Python", "JavaScript", "Java", "C++"]
 - :trident: Technologies : ["Node.js", "React,js", "Docker", "GitHub", "GitLab"]
 
 <!--
